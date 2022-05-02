@@ -3,5 +3,5 @@
 {"name":"John","age":55,"job":"Supervisor"},
 {"name":"Mary","age":35,"job":"Baby-sitter"},
 {"name":"Paul","age":52,"job":"Actor"},
-{"name":"Bernard","age":30,"job":"Programmer"},
+{"name":"Bernard","age":30,"job":"Programmer"}
 ]
