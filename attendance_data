@@ -1,0 +1,16 @@
+
+[
+
+{
+    "studentName": "John Doe",
+    "attendance": "Present"
+  },
+  {
+    "studentName": "Jane Doe",
+    "attendance": "Absent"
+  },
+  {
+    "studentName": "Bob Smith",
+    "attendance": "Present"
+  }
+]
